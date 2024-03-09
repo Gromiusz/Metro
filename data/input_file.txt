@@ -1,0 +1,16 @@
+Time,100
+SimulationLength,1000
+TrackLength,42
+Train,1,Chrobry,100,10,1
+Train,2,Sobieski,100,10,10
+Train,3,Kazimierz,100,10,21,reverse
+Train,4,Lokietek,100,10,6,reverse
+Station,1,Kabaty,3
+Station,5,Ursynow,7
+Station,8,Wierzbno,13
+Station,11,Politechnika,18
+Station,13,Centrum,23
+Station,16,DworzecGdanski,28
+Station,19,Slodowiec,33
+Station,22,Mlociny,38
+
